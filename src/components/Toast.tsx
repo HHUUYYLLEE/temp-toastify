@@ -2,11 +2,11 @@
 import { ToastContainer } from "react-toastify";
 import { contextClass } from "src/constants/toastify";
 // const contextClass = {
-//   success: "bg-gradient-to-r from-yellow-300 to-orange-300",
-//   error: "bg-gradient-to-r from-yellow-300 to-orange-300",
-//   info: "bg-gradient-to-r from-yellow-300 to-orange-300",
-//   warning: "bg-gradient-to-r from-yellow-300 to-orange-300",
-//   default: "bg-gradient-to-r from-yellow-300 to-orange-300",
+//   success: "bg-gradient-to-r from-yellow-400 to-orange-400",
+//   error: "bg-gradient-to-r from-yellow-400 to-orange-400",
+//   info: "bg-gradient-to-r from-yellow-400 to-orange-400",
+//   warning: "bg-gradient-to-r from-yellow-400 to-orange-400",
+//   default: "bg-gradient-to-r from-yellow-400 to-orange-400",
 // };
 
 export const Toast = () => {
